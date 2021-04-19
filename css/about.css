@@ -69,7 +69,8 @@ h1 {
 
 .welcome{
   float: left;
-  width: 48%;
+  width: 30%;
+  margin: 70px;
 }
 
 .welcome strong{
@@ -83,6 +84,7 @@ h1 {
 
 .welcome h1{
   text-align: center;
+  color: coral;
 }
 
 
@@ -92,3 +94,24 @@ h1 {
   color: white;
   padding:100px;
 }
+
+.my-form{
+  padding: 20px;
+}
+
+.my-form label{
+  display: block;
+}
+
+.my-form input[type="text"]{
+  padding: 8px;
+  width: 100%;
+}
+
+.my-form input[type="submit"]{
+  background-color: coral;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+}
+
