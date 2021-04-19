@@ -68,12 +68,12 @@ h1 {
 
 .showcase{
   float: left;
-  width: 20%;
+  width: 25%;
 }
 
 .showcase img{
   height: 205px;
-  width: 246px;
+  width: 100%;
 }
 
 .home-page{
@@ -81,10 +81,6 @@ h1 {
   box-sizing: border-box;
 }
 
-.home-page img{
-  height: 50%;
-  width: 50%;
-}
 
 .home-page q{
   color: coral;
