@@ -78,8 +78,6 @@ h1 {
 
 .home-page{
   margin: 15px;
-  float: left;
-  width: 20%;
   box-sizing: border-box;
 }
 
@@ -131,6 +129,6 @@ h1 {
   text-align: center;
   background-color: black;
   color: white;
-  padding:100px;
+  padding:30px;
 }
 
