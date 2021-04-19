@@ -65,11 +65,7 @@ h1 {
   color: white;
 }
 
-.welcome{
-  float: left;
-  width: 30%;
-  margin: 70px;
-}
+
 
 .welcome strong{
   color: coral;
@@ -90,4 +86,12 @@ h1 {
   background-color: black;
   color: white;
   padding:100px;
+}
+
+.contact h1{
+  color: coral;
+}
+
+.contact{
+  margin: 15px;
 }

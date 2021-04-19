@@ -67,12 +67,6 @@ h1 {
   color: white;
 }
 
-.welcome{
-  float: left;
-  width: 30%;
-  margin: 70px;
-}
-
 .welcome strong{
   color: coral;
 }
@@ -97,6 +91,7 @@ h1 {
 
 .my-form{
   padding: 20px;
+  width: 50%;
 }
 
 .my-form label{

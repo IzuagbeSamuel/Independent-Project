@@ -66,8 +66,11 @@ h1 {
 }
 
 .ani-profile{
-  float: left;
-  width: 50%;
+  text-align: center;
+}
+
+.more{
+  margin-bottom: 10px;
 }
 
 .more a{
@@ -75,6 +78,7 @@ h1 {
   color: white;
   padding: 15px;
   background-color: coral;
+  float: right;
 }
 
 .footer{
