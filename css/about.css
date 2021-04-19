@@ -7,6 +7,8 @@ body {
   margin: 15px;
 }
 
+
+
 .clr{
   clear: both;
 }
@@ -65,32 +67,6 @@ h1 {
   color: white;
 }
 
-.showcase{
-  float: left;
-  width: 20%;
-}
-
-.showcase img{
-  height: 205px;
-  width: 246px;
-}
-
-.home-page{
-  margin: 15px;
-  float: left;
-  width: 40%;
-  box-sizing: border-box;
-}
-
-.home-page img{
-  height: 50%;
-  width: 700px;
-}
-
-.home-page q{
-  color: coral;
-}
-
 .welcome{
   float: left;
   width: 48%;
@@ -109,22 +85,6 @@ h1 {
   text-align: center;
 }
 
-.what{
-  text-align: center;
-}
-
-.what h1{
-  color: coral;
-}
-
-.floating{
-  float: left;
-  width: 50%;
-}
-
-.floating h1{
-  color: coral;
-}
 
 .footer{
   text-align: center;
@@ -132,4 +92,3 @@ h1 {
   color: white;
   padding:100px;
 }
-
