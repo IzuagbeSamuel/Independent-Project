@@ -33,7 +33,23 @@
   padding: 10px;
 }
 
- a:hover{
-  border-bottom: 2px solid red;
+.showcase{
+  float: left;
+  width: 20%;
 }
 
+.showcase img{
+  height: 205px;
+  width: 246px;
+}
+
+.home-page{
+  margin: 15px;
+  float: left;
+  width: 40%;
+}
+
+.home-page img{
+  height: 50%;
+  width: 500px;
+}
