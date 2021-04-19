@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.logo img {
+   height: 75px;
+   width: 75px;
+   background-color: orange;
+}
+
+.logo{
+  background-color: orange;
+}
+
+.nav-bar{
+  background-color: orange;
+  color: white;
+}
+
+.nav-bar ul{
+  list-style: none;
+}
+
+.nav-bar li{
+  display: inline;
+}
+
+.nav-bar a{
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+}
+
+ a:hover{
+  border-bottom: 2px solid red;
+}
+
