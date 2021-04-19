@@ -69,3 +69,23 @@ h1 {
   float: left;
   width: 50%;
 }
+
+.more a{
+  text-decoration: none;
+  color: white;
+  padding: 15px;
+  background-color: coral;
+}
+
+.footer{
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding:100px;
+}
+
+.head{
+  text-align: center;
+  color: coral;
+}
+
