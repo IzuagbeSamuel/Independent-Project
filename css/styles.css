@@ -89,7 +89,7 @@ h1 {
 
 .welcome{
   float: left;
-  width: 50%;
+  width: 48%;
 }
 
 .welcome strong{
@@ -99,4 +99,25 @@ h1 {
 .welcome a{
   color: coral;
   text-decoration: none;
+}
+
+.welcome h1{
+  text-align: center;
+}
+
+.what{
+  text-align: center;
+}
+
+.what h1{
+  color: coral;
+}
+
+.floating{
+  float: left;
+  width: 50%;
+}
+
+.floating h1{
+  color: coral;
 }
